@@ -1,0 +1,11 @@
+! === URxvt ===
+
+! -- Font --
+
+URxvt.font: xft:Inconsolata:8
+
+! -- Scroling --
+URxvt*scrollTtyOutput: false
+URxvt*scrollWithBuffer: true
+URxvt*scrollTtyKeypress: true
+URxvt.scrollBar: false
