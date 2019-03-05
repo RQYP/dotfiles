@@ -1,0 +1,5 @@
+# -- ssh into docker master --
+alias dockerMaster='ssh ahmza.com -p 2200'
+
+# -- bare repo for dotfiles --
+alias dotfiles='/usr/bin/git --git-dir=/storage/workspace/dotfiles --work-tree=/home/ahmza'
